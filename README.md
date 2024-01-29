@@ -7,3 +7,5 @@ Akshat Shashi
 Adding some new lines on the github.
 
 Modified in VS STUDIO CODE.
+
+Updated the python code in version_1.2
